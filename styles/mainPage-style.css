@@ -1,0 +1,17 @@
+.mainSec {
+  text-align: center;
+}
+h2 {
+  display: inline;
+  color: blue;
+  font-size: 18px;
+}
+.left {
+  float: left;
+}
+p {
+  display: inline;
+}
+section {
+  display: block;
+}

@@ -1,0 +1,26 @@
+header {
+  padding: 2%;
+  text-align: center;
+  background: gainsboro;
+  font-size: 20px;
+}
+.logo {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 50%;
+}
+.navList {
+  list-style: inside;
+}
+li {
+  display: inline;
+  padding: 1%;
+}
+.sign-in {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  font-size: 16px
+}
+
